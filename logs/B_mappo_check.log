@@ -1,0 +1,17 @@
+Reset MultiCellNetwork(area=[500. 500.], num_bs=0, scenario=B, time=Mon, 00:00)
+Start time: Mon, 00:00
+Acceleration: 1200
+Time step: 1.0 ms <-> 1.2 s
+Action interval: 20.0 ms <-> 0.4 min
+Episode length: 25200
+Episode time length: 168.0 h
+QoS weight: 4.0
+Extra QoS weight: 0.005
+Observation space: (1, 33)
+Central observation space: (45,)
+Action space: (1, (2,))
+Seed: None
+Max sleep depth: 3
+Has interference: True
+Reset MultiCellNetwork(area=[500. 500.], num_bs=0, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)

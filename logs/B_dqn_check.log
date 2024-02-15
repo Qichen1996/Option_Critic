@@ -1,0 +1,119 @@
+Reset MultiCellNetwork(area=[500. 500.], num_bs=0, scenario=B, time=Mon, 00:00)
+Start time: Mon, 00:00
+Acceleration: 1200
+Time step: 1.0 ms <-> 1.2 s
+Action interval: 20.0 ms <-> 0.4 min
+Episode length: 25200
+Episode time length: 168.0 h
+QoS weight: 30.0
+Extra QoS weight: 0.005
+Observation space: (1, 33)
+Central observation space: (45,)
+Action space: (1, (2,))
+Seed: None
+Max sleep depth: 3
+Has interference: True
+Reset MultiCellNetwork(area=[500. 500.], num_bs=0, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 1 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 2 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 3 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 4 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 5 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 6 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 7 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 8 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 9 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 10 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 11 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 12 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 13 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 14 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 15 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 16 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 17 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 18 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 19 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 20 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 21 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 22 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 23 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 24 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 25 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 26 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 27 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 28 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 29 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 30 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 31 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 32 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 33 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Episode 34 finished at Mon, 00:00
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
+Reset MultiCellNetwork(area=[500. 500.], num_bs=1, scenario=B, time=Mon, 00:00)
